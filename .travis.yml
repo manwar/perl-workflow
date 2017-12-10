@@ -24,4 +24,4 @@ after_success:
 - dzil cover -report codecov
 notifications:
   slack:
-    secure: 3QTn/fXE6iR60yLkIbgAHc9cgzY0z4cR4t0tESM+o4joSZ4ZhWXFK7Yhwy5Te/21TpYPOurngW8a2PIg7oRDhmAlV3oOV6ERvxXxacsN5udnDCrRvAgTA89y3zK2DcjYCofN3sCf0K4y9L8lKgBxpdpY/ItOXvTtV/8pXjoH/UI=
+    secure: 2yK38w30h8ytgS+88/ORIjz3/PrAeLUpHUCabBYPpmrZJda9f6+6cLbXHWuqvN1osvh9VIzR7aqUx79HbAIM0o6XLs2QTRAOcaOKWOxkljTVg3LARUNeO/Fj13S3KA4iboTdXyBjX1dxG48rn95GrKCmTngdEq2EOIp2nUrr17w=
