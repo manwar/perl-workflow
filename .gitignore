@@ -25,3 +25,4 @@ t/workflow_tests.log
 *.sublime-project
 *.sublime-workspace
 .DS_Store
+local
